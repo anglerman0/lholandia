@@ -7,6 +7,6 @@ null,
 {"id":5,"expanded":false,"name":"Forest Lair","order":7,"parentId":2,"scrollX":1786.909090909091,"scrollY":1016.7272727272727},
 {"id":6,"expanded":true,"name":"Trem","order":8,"parentId":7,"scrollX":1786.909090909091,"scrollY":1016.7272727272727},
 {"id":7,"expanded":true,"name":"Town","order":4,"parentId":1,"scrollX":1786.909090909091,"scrollY":1016.7272727272727},
-{"id":8,"expanded":false,"name":"Station","order":9,"parentId":6,"scrollX":973.1999999999999,"scrollY":722.4},
+{"id":8,"expanded":false,"name":"Station","order":9,"parentId":6,"scrollX":1786.909090909091,"scrollY":1016.7272727272727},
 {"id":9,"expanded":true,"name":"Snow Field","order":5,"parentId":7,"scrollX":1786.909090909091,"scrollY":1016.7272727272727}
 ]
